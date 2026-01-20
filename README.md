@@ -2,6 +2,8 @@
 
 The notebook of this repo contains code for building a GPT 2 language model from scratch, following the tutorial videos at this [this link](https://www.youtube.com/watch?v=yAcWnfsZhzo)
 
+The code is available also on my Kaggle [notebook](https://www.kaggle.com/code/michelepulvirenti/gpt-llm)
+
 ## Code Structure
 
 This implementation is organized into the following parts:
